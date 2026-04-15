@@ -1,1 +1,1 @@
-This is the c++ prokect for the hospital management system
+This is the c++ project for the hospital management system
